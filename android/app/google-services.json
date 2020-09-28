@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416593386450",
+    "firebase_url": "https://danusorn-bas.firebaseio.com",
+    "project_id": "danusorn-bas",
+    "storage_bucket": "danusorn-bas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416593386450:android:51d019d86cffa8dc93c60b",
+        "android_client_info": {
+          "package_name": "com.danusorn.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416593386450-bmerjr725bkklt2kljaggnlpeq2i0ija.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs-y_6N6tyDpbedWLCFG6YOi7-m-LQTRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416593386450-bmerjr725bkklt2kljaggnlpeq2i0ija.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
